@@ -1,5 +1,6 @@
 *.iml
 modules.xml
 workspace.xml
+_config.yml
 .gitignore
 .idea
