@@ -152,7 +152,6 @@
 >> - Power-set combination：数据源的幂次个子集的组合
 >> - Stacking：利用多个目标之间的相互依赖关系来推理用户属性
 
-
 >[Figure-1]:/Users/lcq-mac/pycharm_projects/github.image/UDMF/Figure-1.jpg
 >[Figure-2]:/Users/lcq-mac/pycharm_projects/github.image/UDMF/Figure-2.jpg
 >[Figure-3]:/Users/lcq-mac/pycharm_projects/github.image/UDMF/Figure-3.jpg
